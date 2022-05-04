@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Work+Sans&display=swap');
+
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+
+.categories{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    grid-gap: 1rem;
+}
+

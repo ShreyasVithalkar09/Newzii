@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "By <a href=\"/profiles/travis-caldwell\">Travis Caldwell</a>, Seán Federico O'Murchú, Lianne Kolirin and Sana Noor Haq, CNN",
+        "title": "Russia invades Ukraine: Live updates - CNN",
+        "description": "Russian forces struck the office of the regional military governor of Ukraine's southwestern Mykolaiv region on Tuesday, demolishing half of the building, according to local authorities. Follow here for live news updates.",
+        "url": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-30-22/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220329151756-mykolaiv-damage-0329-super-tease.jpg",
+        "publishedAt": "2022-03-30T08:24:00Z",
+        "content": "Ukraine and Russia agreed on three evacuation corridors for Wednesday, Ukraine's Deputy Prime Minister Iryna Vereshchuk announced. \r\nVereshchuk said one corridor for the evacuation of Mariupol reside… [+1738 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Ashley Strickland, CNN",
+        "title": "NASA astronaut, Russian cosmonauts prepare to land in Kazakhstan - CNN",
+        "description": "NASA astronaut Mark Vande Hei and Russian cosmonauts Anton Shkaplerov and Pyotr Dubrov will return to Earth Wednesday on Russian Soyuz spacecraft, landing on the steppe of Kazakhstan. Vande Hei's 355 days spent in space break the record previously set by Scot…",
+        "url": "https://www.cnn.com/2022/03/29/world/nasa-vande-hei-cosmonauts-return-scn/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220330032918-soyuz-undocking-iss-03302022-super-tease.jpg",
+        "publishedAt": "2022-03-30T07:47:00Z",
+        "content": "(CNN)After a record-breaking 355 days spent in space, NASA astronaut Mark Vande Hei is one step closer to returning to Earth. \r\nIn a Russian Soyuz MS-19 spacecraft, Vande Hei and cosmonauts Anton Shk… [+5858 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Nintendo Life"
+        },
+        "author": "Liam Doolan",
+        "title": "Random: Requests For Zelda Ports Increase Following BOTW 2 Switch Delay - Nintendo Life",
+        "description": "Please make it happen, Nintendo",
+        "url": "https://www.nintendolife.com/news/2022/03/random-requests-for-zelda-ports-increase-following-botw-2-switch-delay",
+        "urlToImage": "https://images.nintendolife.com/0840ed5a34a8c/1280x720.jpg",
+        "publishedAt": "2022-03-30T05:45:00Z",
+        "content": "Image: Nintendo\r\nYesterday, was a pretty rough one for Switch owners, with Nintendo announcing the delay of The Legend of Zelda: Breath of the Wild 2. On a more positive note, it at least gives Ninte… [+2692 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Dyson Zone Is Real: How the Air-Purifying Headphones Work - CNET",
+        "description": "Dyson reveals a wearable gadget with a wild design. The Dyson Zone is a pair of headphones with a visor that blows clean air into your face. Bridget Carey ex...",
+        "url": "https://www.youtube.com/watch?v=lajE9K5EeI4",
+        "urlToImage": "https://i.ytimg.com/vi/lajE9K5EeI4/maxresdefault.jpg",
+        "publishedAt": "2022-03-30T05:00:15Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Kate Sullivan, Maegan Vazquez",
+        "title": "Biden signs bill making lynching a federal hate crime into law - CNN",
+        "description": "President Joe Biden signed a bill into law on Tuesday that makes lynching a federal hate crime, acknowledging how racial violence has left a lasting scar on the nation and asserting that these crimes are not a relic of a bygone era.",
+        "url": "https://www.cnn.com/2022/03/29/politics/biden-emmett-till-antilynching-act/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220329171056-01-biden-antilynching-act-0329.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2022-03-30T04:57:00Z",
+        "content": "President Joe Biden signed a bill into law on Tuesday that makes lynching a federal hate crime, acknowledging how racial violence has left a lasting scar on the nation and asserting that these crimes… [+5509 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Holly Ellyatt",
+        "title": "European markets set to turn lower amid doubts over latest Russian pledges over Ukraine - CNBC",
+        "description": "European stocks are expected to open flat to lower on Wednesday following the latest round of talks between Russia and Ukraine.",
+        "url": "https://www.cnbc.com/2022/03/30/european-markets-waver-amid-doubts-over-russian-withdrawl-in-ukraine.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107038415-gettyimages-1239593656-AA_29032022_668944.jpeg?v=1648576605&w=1920&h=1080",
+        "publishedAt": "2022-03-30T04:45:49Z",
+        "content": "LONDON European stocks are expected to open flat to lower on Wednesday following the latest round of talks between Russia and Ukraine, aimed at finding a solution to the conflict.\r\nThe U.K.'s FTSE in… [+2316 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "Lauran Neergaard",
+        "title": "US opens second COVID boosters to 50 and up, others at risk - The Associated Press",
+        "description": "Americans 50 and older can get a second COVID-19 booster if it’s been at least four months since their last vaccination, a chance at extra protection for the most vulnerable in case the coronavirus rebounds.",
+        "url": "https://apnews.com/article/fda-authorizes-second-covid-booster-33e81ee1daddd9ff04c136db620aa1ae",
+        "urlToImage": "https://storage.googleapis.com/afs-prod/media/21a18e99f15748c987517f13f8730070/3000.jpeg",
+        "publishedAt": "2022-03-30T04:29:37Z",
+        "content": "Americans 50 and older can get a second COVID-19 booster if its been at least four months since their last vaccination, a chance at extra protection for the most vulnerable in case the coronavirus re… [+6171 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SciTechDaily"
+        },
+        "author": null,
+        "title": "Disinfectant Use During Pregnancy Linked to Asthma and Eczema in Children - SciTechDaily",
+        "description": "Use of disinfectants by pregnant women may be a risk factor for asthma and eczema in their children, finds a population study, published online in Occupational & Environmental Medicine. Disinfectants are used frequently in hospitals and other medical faciliti…",
+        "url": "https://scitechdaily.com/disinfectant-use-during-pregnancy-linked-to-asthma-and-eczema-in-children/",
+        "urlToImage": "https://scitechdaily.com/images/Pregnant-Woman-Cleaning.jpg",
+        "publishedAt": "2022-03-30T04:15:37Z",
+        "content": "Use of disinfectants by pregnant women may be a risk factor for asthma and eczema in their children, finds a population study, published online in Occupational &amp; Environmental Medicine.\r\nDisinfec… [+3323 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Deseret News"
+        },
+        "author": "Herb Scribner",
+        "title": "Long COVID symptoms: COVID variants create different COVID symptoms - Deseret News",
+        "description": "Different COVID variants may lead to different long COVID symptoms",
+        "url": "https://www.deseret.com/coronavirus/2022/3/29/23001223/long-covid-symptoms-depend-new-coronavirus-variant",
+        "urlToImage": "https://deseret.brightspotcdn.com/dims4/default/fa7a2e4/2147483647/strip/true/crop/3000x1713+0+144/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FDmeTdM_Mmu-v1ni4HEoTvgIRdSE%3D%2F0x0%3A3000x2000%2F3000x2000%2Ffilters%3Afocal%281500x1000%3A1501x1001%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F23128155%2Fomicron1.jpg",
+        "publishedAt": "2022-03-30T04:00:00Z",
+        "content": "The different coronavirus variants may create various long COVID-19 symptoms, according to a new study.\r\nDriving the news: The study which will be presented at the European Congress of Clinical Micro… [+1358 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The News International"
+        },
+        "author": "Web Desk",
+        "title": "Royal family is upset after Queen Elizabeth chooses Andrew to escort her - The News International",
+        "description": "Queen Elizabeth’s public show of support for Prince Andrew at Prince Philip's memorial service left several senior members of the Royal Family unhappy, according to UK's Daily Express.The...",
+        "url": "https://www.thenews.com.pk/latest/945830-royal-family-is-upset-after-queen-elizabeth-chooses-andrew-to-escort-her",
+        "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2022-03-30/945830_063306_updates.jpg",
+        "publishedAt": "2022-03-30T02:28:00Z",
+        "content": "Queen Elizabeths public show of support for Prince Andrew at Prince Philip's memorial service left several senior members of the Royal Family unhappy, according to UK's Daily Express.\r\nThe publicatio… [+778 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Daily Mail"
+        },
+        "author": "Ben Ashford",
+        "title": "Casket of beloved Foo Fighters drummer Taylor Hawkins is seen leaving Bogota airport - Daily Mail",
+        "description": "Foo Fighters drummer Taylor Hawkins was flown home today as Colombian authorities continued to probe the gendary rocker's suspected overdose.",
+        "url": "https://www.dailymail.co.uk/news/article-10665699/Casket-beloved-Foo-Fighters-drummer-Taylor-Hawkins-seen-leaving-Bogota-airport.html",
+        "urlToImage": "https://i.dailymail.co.uk/1s/2022/03/30/03/55981449-0-image-a-93_1648606439888.jpg",
+        "publishedAt": "2022-03-30T02:17:40Z",
+        "content": "The body of Foo Fighters drummer Taylor Hawkins was flown home to his devastated loved ones Tuesday as Colombian authorities continued to probe the legendary rockers suspected overdose.\r\nExclusive Da… [+8162 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "TVLine"
+        },
+        "author": "Kimberly Roots",
+        "title": "'This Is Us' Recap: Season 6, Episode 10 — 'Every Version of You' - TVLine",
+        "description": "This Is Us does love its fake-outs — remember when we all thought the series premiere storylines all were taking place in the present day? — but there’s a chance that this week’s episode clues us in to Randall’s ultimate, Oval Office aspirations. “Every Versi…",
+        "url": "https://tvline.com/2022/03/29/this-is-us-recap-season-6-episode-10-every-version-of-you/",
+        "urlToImage": "https://tvline.com/wp-content/uploads/2022/03/this-is-us-recap-season-6-episode-10-dw.jpg?w=630",
+        "publishedAt": "2022-03-30T01:59:00Z",
+        "content": "This Is Us does love its fake-outs — remember when we all thought the series premiere storylines all were taking place in the present day? — but there’s a chance that this week’s episode clues us in … [+8119 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Charles Robinson",
+        "title": "Roger Goodell no longer has final say on whether Deshaun Watson violated NFL's personal conduct policy - Yahoo Sports",
+        "description": "According to a source, that decision is expected to be placed in the hands of former U.S. District Court Judge Sue Robinson, who has been chosen by the NFL...",
+        "url": "https://sports.yahoo.com/roger-goodell-no-longer-has-final-say-on-whether-deshaun-watson-violated-nf-ls-personal-conduct-policy-014712381.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bxMu6Gp643ZbkMqss2oLeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-03/399e7480-af90-11ec-bffb-3752288e3ad5",
+        "publishedAt": "2022-03-30T01:47:00Z",
+        "content": "PALM BEACH, Fla. Deshaun Watson wont be going on the NFL commissioners exempt list while the league investigates 22 civil lawsuits pending against the Cleveland Browns quarterback. Instead, any suspe… [+4745 chars]"
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "Keith Zhai and Liza Lin",
+        "title": "China Plans New Restrictions in Its Booming Live-Streaming Sector - The Wall Street Journal",
+        "description": "Regulators are planning rules limiting virtual tipping of live-streaming hosts and time spent by young people on the apps.",
+        "url": "https://www.wsj.com/articles/china-plans-new-restrictions-in-its-booming-live-streaming-sector-11648603781",
+        "urlToImage": "https://images.wsj.net/im-514661/social",
+        "publishedAt": "2022-03-30T01:29:00Z",
+        "content": "SINGAPOREChina is planning new curbs on the countrys $30 billion live-streaming industry, according to people familiar with the matter, renewing a regulatory campaign aimed at reining in technology c… [+427 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "'All-New PlayStation Plus' Subscription Tiers Explained - IGN Daily Fix - IGN",
+        "description": "On today's IGN The Fix: Games,Sony has finally announced its revision of its PlayStation Plus subscription service, effectively combining PS Plus and PS Now,...",
+        "url": "https://www.youtube.com/watch?v=Gvi_fl9TNJM",
+        "urlToImage": "https://i.ytimg.com/vi/Gvi_fl9TNJM/hqdefault.jpg",
+        "publishedAt": "2022-03-30T01:03:35Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "NFC Notes: 49ers, Cardinals, Rams, Seahawks, Colin Kaepernick - NFL Trade Rumors",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMiU2h0dHBzOi8vbmZsdHJhZGVydW1vcnMuY28vbmZjLW5vdGVzLTQ5ZXJzLWNhcmRpbmFscy1yYW1zLXNlYWhhd2tzLWNvbGluLWthZXBlcm5pY2sv0gEA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2022-03-30T01:00:43Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": null,
+        "title": "Garcetti on the ropes as Dems privately raise concerns - POLITICO",
+        "description": "Among the lawmakers who have raised flags: Kyrsten Sinema.",
+        "url": "https://www.politico.com/news/2022/03/29/eric-garcetti-confirmation-ambassador-india-00021463",
+        "urlToImage": "https://static.politico.com/91/ab/9cf8088940508a92f9ff1dcd84f0/https-delivery.gettyimages.com/downloads/1317667970",
+        "publishedAt": "2022-03-30T00:31:58Z",
+        "content": "The Biden administration continues to express confidence about the prospects of Garcettis confirmation. But on Friday, a State Department official trekked up to the Hill to join a meeting of Senate D… [+5949 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Lombardi Ave"
+        },
+        "author": "Freddie Boston",
+        "title": "Packers three-round mock draft featuring Jordan Love blockbuster trade - Lombardi Ave",
+        "description": "Packers three-round mock draft including two huge trades, one with Jordan Love heading to the Seahawks. You will either love this Green Bay Packers three-r...",
+        "url": "https://lombardiave.com/2022/03/29/packers-three-round-mock-draft-jordan-love-trade/",
+        "urlToImage": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Flombardiave.com%2Fwp-content%2Fuploads%2Fimagn-images%2F2018%2F08%2F17116749.jpeg",
+        "publishedAt": "2022-03-29T23:42:00Z",
+        "content": "(Photo by Brett Carlsen/Getty Images)\r\nPackers three-round mock draft including two huge trades, one with Jordan Love heading to the Seahawks.\r\nYou will either love this Green Bay Packers three-round… [+1346 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MarketWatch"
+        },
+        "author": "William Watts",
+        "title": "Stock-market investors laugh off yield curve's recession warning --- for now. Here's why. - MarketWatch",
+        "description": "Yield curve a reliable economic indicator, but a poor market timing tool",
+        "url": "https://www.marketwatch.com/story/what-an-inverted-yield-curve-says-about-the-stock-market-and-recessions-11648596049",
+        "urlToImage": "https://images.mktw.net/im-514628/social",
+        "publishedAt": "2022-03-29T23:20:00Z",
+        "content": "Blink and you missed it, but the yield on the 2-year Treasury note traded briefly above the yield on the 10-year note Tuesday afternoon, temporarily inverting the yield curve and triggering recession… [+4279 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Page Six"
+        },
+        "author": "Evan Real, Marjorie Hernandez",
+        "title": "Kelly Clarkson finalizes her name change to Kelly Brianne - Page Six",
+        "description": "The pop star and talk show host previously explained that Kelly Brianne “more fully reflects” who she is as a person after divorcing Brandon Blackstock.",
+        "url": "https://pagesix.com/2022/03/29/kelly-clarkson-finalizes-her-name-change-to-kelly-brianne/",
+        "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/03/kelly-clarkson-name-change-1.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2022-03-29T23:07:00Z",
+        "content": "Kelly Clarkson has finalized her name change and will now be legally known as Kelly Brianne. \r\nA California judge granted the talk show host, 39, her new moniker, according to court documents obtaine… [+2057 chars]"
+      }
+    ]
+  }
