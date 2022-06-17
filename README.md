@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This app uses News API which is free only for developers subscription. So it can be only run on the localhost, that is the development environment.
+
 ## Available Scripts
 
 In the project directory, you can run:
